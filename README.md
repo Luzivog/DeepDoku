@@ -31,7 +31,7 @@ Sudoku puzzle:
 
 <img src="https://raw.githubusercontent.com/Luzivog/DeepDoku/main/assets/sudoku_grand_prix.png" width="200" height="200" />
 
-
+Model Output:
 
 ```
 [[1. 5. 9. 2. 7. 6. 3. 4. 8.]
