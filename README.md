@@ -28,7 +28,8 @@ Since we have a probability for each selected digit, I calculated the model's co
 For this example I selected a sudoku that was recommended by [Richard Stolk](https://logic-masters.de/Raetselportal/Benutzer/allgemein.php?name=Richard&chlang=en), a **world classed sudoku solver**. This sudoku was the 4th Sudoku of the [2017 World sudoku Grand Prix final](https://gp.worldpuzzle.org/content/final-results-5) and here's what our model predicts:
 
 Sudoku puzzle:
-![image info](./assets/sudoku_grand_prix.png)
+
+![image info](./assets/sudoku_grand_prix.png =200x200)
 
 
 ```
