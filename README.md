@@ -29,7 +29,8 @@ For this example I selected a sudoku that was recommended by [Richard Stolk](htt
 
 Sudoku puzzle:
 
-[./assets/sudoku_grand_prix.png|width=200px]
+<img data-canonical-src="https://github.com/Luzivog/DeepDoku/blob/main/assets/sudoku_grand_prix.png" width="200" height="200" />
+
 
 
 ```
