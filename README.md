@@ -7,7 +7,7 @@ This project was made to see to what extent DeepLearning was able to learn the r
 The dataset used for training and testing the model is available on [Kaggle](https://www.kaggle.com/datasets/bryanpark/sudoku) and contains 1 million valid sudokus puzzles and their corresponding solutions.
 
 ## ⚙️ Model and training
-The model is composed of 3 convolution layers, 2 batch normalization layers and a Dense layer. The ReLU function is activated at each convolution layer since Sudokus are non-linear puzzles. We also activate to SoftMax function at the end to get a probability for each number in each box and we'll simply take the one that has the highest probability. After some hyperparameter optimization, the loss came down to 0.358. 
+The model is composed of 3 convolution layers, 2 batch normalization layers and a Dense layer. The ReLU function is activated at each convolution layer since Sudokus are non-linear puzzles. We also activate to SoftMax function at the end to get a probability for each number in each box and we'll simply take the one that has the highest probability. After some hyperparameter tuning, the loss came down to 0.358. 
 
 
 ## 💡First approach
